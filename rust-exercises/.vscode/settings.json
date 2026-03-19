@@ -1,0 +1,7 @@
+{
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.quickSuggestions": {
+        "other": "off"
+    },
+    "terminal.integrated.suggest.suggestOnTriggerCharacters": false
+}
